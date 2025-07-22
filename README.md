@@ -5,13 +5,12 @@ This project involves the development of a modern, user-friendly website for CTJ
 ### Features
 - **Home Page**: Welcoming visitors with a brief introduction.
 - **About Us**: Detailed information about the church's history, mission, values, and leadership team.
-- **Services**: Schedule of regular services, calendar of special events, and programs.
-- **Sermons**: Link to live stream and link to past sermons, available for streaming 
-- **Contact Us**: Contact form, church location, and social media links.
+- **Social media**: Youtube, Instagram, Facebook
+- **Contact Us**: Contact form, church location, and link to livestream
 
 ### Technology Stack
 - **Frontend**:
-HTML5, CSS3, ...probably more to come!
+HTML5, CSS3, Angular
 - **Backend**:
 To be defined.
 - **Hosting**:
